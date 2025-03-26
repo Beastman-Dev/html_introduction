@@ -2,3 +2,20 @@ h1 {
     color: red;
     background-color:blue;
 }
+
+p {
+    font-size: 15px;
+    color: darkred;
+}
+
+#mainPar {
+    color:green;
+}
+
+.veg {
+    color: green;
+}
+
+.meat {
+    color: brown;
+}
